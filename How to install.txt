@@ -1,0 +1,10 @@
+1) down load the zip to your desktop
+
+2) open the zip
+
+3)extract everything from the zip into a folder named bot.
+
+4)run automatic.bat
+
+your all set.
+
