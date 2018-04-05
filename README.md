@@ -1,7 +1,7 @@
 # Backpack.tf automatic - the poot. #
-im add this to the read me. 
+im adding this to the read me. 
 I dont own this, im just posting this because many people on the backpack.tf forum wanted a fixed version of the backpack.tf automatic.
-As you all know backpack.tf automatic has been unsuported for a ling wile. Im uploading this with fixes from the community 
+As you all know backpack.tf automatic has been unsuported for a long while. Im uploading this with fixes from the community 
 because many people wanted an updated version of backpack.tf automatic but didnt want to go into the code and mess around with it.
 
 
