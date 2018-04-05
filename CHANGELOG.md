@@ -1,3 +1,10 @@
+#1.3.5
+Updated lightnong bolt symbol 
+updated autobumping for premium members
+
+# 1.3.4
+Updated Metal counting.
+
 # 1.3.3
 Fixed update checking.
 
