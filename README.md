@@ -1,3 +1,13 @@
+Backpack.tf automatic - the poot.
+im add this to the read me.
+I dont own this, im just posting this because many people on the backpack.tf forum
+wanted a fixed version of the backpack.tf automatic.
+
+
+
+
+
+
 # backpack.tf Automatic #
 
 *Read this carefully before doing anything, it contains a full set of instructions. Read past the download links before asking for help.*
