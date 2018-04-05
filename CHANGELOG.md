@@ -1,5 +1,5 @@
 # 1.3.5
-Updated lightnong bolt symbol 
+Updated lightnong bolt symbol and
 updated autobumping for premium members
 
 # 1.3.4
