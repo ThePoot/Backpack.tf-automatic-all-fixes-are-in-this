@@ -1,3 +1,6 @@
+# 1.3.6
+Updated the metal exchange once more!
+
 # 1.3.5
 Updated lightnong bolt symbol and
 updated autobumping for premium members
